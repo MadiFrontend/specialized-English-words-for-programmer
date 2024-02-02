@@ -7,4 +7,5 @@ here's a list of them ...
 - determine: to find out or come to a decision about by investigation, reasoning, or calculation.. | تعیین کردن
 - modify: to change something slightly. | تغییر جزئی، بهبود
 - accurate: exact and true. | دقیق صحیح
-- array: In computer science, array programming refers to solutions that allow the application of operations to an entire set of values at once | آرایه
+- array: array programming refers to solutions that allow the application of operations to an entire set of values at once | آرایه
+- Object: an object can be a variable, a data structure, a function, or a method. As regions of memory, objects contain a value and are referenced by identifiers | آبجکت
