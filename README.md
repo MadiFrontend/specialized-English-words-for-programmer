@@ -9,3 +9,7 @@ here's a list of them ...
 - accurate: exact and true. | دقیق صحیح
 - array: array programming refers to solutions that allow the application of operations to an entire set of values at once | آرایه
 - Object: an object can be a variable, a data structure, a function, or a method. As regions of memory, objects contain a value and are referenced by identifiers | آبجکت
+
+- OOP : Object-oriented programming (OOP) is a style of programming characterized by the identification of classes of objects closely linked with the methods (functions) with which they are associated. It also includes ideas of inheritance of attributes and methods. It is a technique based on a mathematical discipline, called “abstract data types,” for storing data with the procedures needed to process that data. OOP offers the potential to evolve programming to a higher level of abstraction.
+
+- 
