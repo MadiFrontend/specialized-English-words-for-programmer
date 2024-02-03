@@ -12,4 +12,4 @@ here's a list of them ...
 
 - OOP : Object-oriented programming (OOP) is a style of programming characterized by the identification of classes of objects closely linked with the methods (functions) with which they are associated. It also includes ideas of inheritance of attributes and methods. It is a technique based on a mathematical discipline, called “abstract data types,” for storing data with the procedures needed to process that data. OOP offers the potential to evolve programming to a higher level of abstraction.
 
-- 
+- FP: Functional programming (FP) is an approach to software development that uses pure functions to create maintainable software. In other words, building programs by applying and composing functions.
