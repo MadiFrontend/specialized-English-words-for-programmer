@@ -16,6 +16,7 @@ here's a list of them ...
 
 - Algorithm : An algorithm is a set of commands that must be followed for a computer to perform calculations or other problem-solving operations.According to its formal definition, an algorithm is a finite set of instructions carried out in a specific order to perform a particular task. | الگوریتم
 
+flowchart : A flowchart is a diagram that depicts a process, system or computer algorithm. They are widely used in multiple fields to document, study, plan, improve and communicate often complex processes in clear, easy-to-understand diagrams. | فلوچارت
 ل
 
 
