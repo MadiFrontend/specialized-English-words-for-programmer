@@ -10,13 +10,13 @@ here's a list of them ...
 - array: array programming refers to solutions that allow the application of operations to an entire set of values at once | آرایه
 - Object: an object can be a variable, a data structure, a function, or a method. As regions of memory, objects contain a value and are referenced by identifiers | آبجکت
 
-- OOP : Object-oriented programming (OOP) is a style of programming characterized by the identification of classes of objects closely linked with the methods (functions) with which they are associated. It also includes ideas of inheritance of attributes and methods. It is a technique based on a mathematical discipline, called “abstract data types,” for storing data with the procedures needed to process that data. OOP offers the potential to evolve programming to a higher level of abstraction.
+- OOP: Object-oriented programming (OOP) is a programming style characterized by identifying classes of objects closely linked with the associated methods (functions) with which they are associated. It also includes ideas of inheritance of attributes and methods. It is a technique based on a mathematical discipline, called “abstract data types,” for storing data with the procedures needed to process that data. OOP offers the potential to evolve programming to a higher level of abstraction.
 
 - FP: Functional programming (FP) is an approach to software development that uses pure functions to create maintainable software. In other words, building programs by applying and composing functions.
 
-- Algorithm : An algorithm is a set of commands that must be followed for a computer to perform calculations or other problem-solving operations.According to its formal definition, an algorithm is a finite set of instructions carried out in a specific order to perform a particular task. | الگوریتم
+- Algorithm: An algorithm is a set of commands that must be followed for a computer to perform calculations or other problem-solving operations. According to its formal definition, an algorithm is a finite set of instructions carried out in a specific order to perform a particular task. | الگوریتم
 
-- flowchart : A flowchart is a diagram that depicts a process, system or computer algorithm. They are widely used in multiple fields to document, study, plan, improve and communicate often complex processes in clear, easy-to-understand diagrams. | فلوچارت
+- flowchart: A flowchart is a diagram that depicts a process, system, or computer algorithm. They are widely used in multiple fields to document, study, plan, improve, and communicate often complex processes in clear, easy-to-understand diagrams. | فلوچارت
 
 - data structure: In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data
 ل
