@@ -23,6 +23,7 @@ here's a list of them ...
 - wireframe: a skeletal three-dimensional model in which only lines and vertices are represented.
 an image or set of images which displays the functional elements of a website or page, typically used for planning a site's structure and functionality. | وایرفریم
 
+- Prototype: A prototype in software development is a simulation of how a real product will work and feel. It's used for design feedback and user testing. Purposefully broad in definition, they can come in all levels of sophistication– from an idea sketched on the back of a napkin to a clickable prototype that mimics real software. | نمونه اولیه
 
 
 
