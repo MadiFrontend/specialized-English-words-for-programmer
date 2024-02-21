@@ -19,7 +19,9 @@ here's a list of them ...
 - flowchart: A flowchart is a diagram that depicts a process, system, or computer algorithm. They are widely used in multiple fields to document, study, plan, improve, and communicate often complex processes in clear, easy-to-understand diagrams. | فلوچارت
 
 - data structure: In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data | ساختمان داده
-ل
+
+- wireframe: a skeletal three-dimensional model in which only lines and vertices are represented.
+an image or set of images which displays the functional elements of a website or page, typically used for planning a site's structure and functionality. | وایرفریم
 
 
 
