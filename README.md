@@ -16,12 +16,14 @@ here's a list of them ...
 
 - Algorithm: An algorithm is a set of commands that must be followed for a computer to perform calculations or other problem-solving operations. According to its formal definition, an algorithm is a finite set of instructions carried out in a specific order to perform a particular task. | الگوریتم
 
-- flowchart: A flowchart is a diagram that depicts a process, system, or computer algorithm. They are widely used in multiple fields to document, study, plan, improve, and communicate often complex processes in clear, easy-to-understand diagrams. | فلوچارت
+- Flowchart: A flowchart is a diagram that depicts a process, system, or computer algorithm. They are widely used in multiple fields to document, study, plan, improve, and communicate often complex processes in clear, easy-to-understand diagrams. | فلوچارت
 
-- data structure: In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data | ساختمان داده
+- Data structure: In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data | ساختمان داده
 
-- wireframe: a skeletal three-dimensional model in which only lines and vertices are represented.
+- Wireframe: a skeletal three-dimensional model in which only lines and vertices are represented.
 an image or set of images which displays the functional elements of a website or page, typically used for planning a site's structure and functionality. | وایرفریم
+
+- Framework: A framework, or software framework, is a platform that provides a foundation for developing software applications. Think of it as a template of a working program that can be selectively modified by adding code. | فریمورک، چارچوب
 
 - Prototype: A prototype in software development is a simulation of how a real product will work and feel. It's used for design feedback and user testing. Purposefully broad in definition, they can come in all levels of sophistication– from an idea sketched on the back of a napkin to a clickable prototype that mimics real software. | نمونه اولیه
 
