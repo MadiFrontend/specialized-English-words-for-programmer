@@ -23,9 +23,8 @@ here's a list of them ...
 - Wireframe: a skeletal three-dimensional model in which only lines and vertices are represented.
 an image or set of images which displays the functional elements of a website or page, typically used for planning a site's structure and functionality. | وایرفریم
 
-- Framework: A framework, or software framework, is a platform that provides a foundation for developing software applications. Think of it as a template of a working program that can be selectively modified by adding code. | فریمورک، چارچوب
-
 - Prototype: A prototype in software development is a simulation of how a real product will work and feel. It's used for design feedback and user testing. Purposefully broad in definition, they can come in all levels of sophistication– from an idea sketched on the back of a napkin to a clickable prototype that mimics real software. | نمونه اولیه
 
-
 - Open source: Open source is a term that originally referred to open source software (OSS). Open source software is code that is designed to be publicly accessible—anyone can see, modify, and distribute the code as they see fit. | متن باز، اوپن سورس
+
+- Framework: A framework, or software framework, is a platform that provides a foundation for developing software applications. Think of it as a template of a working program that can be selectively modified by adding code. | فریمورک، چارچوب
