@@ -28,3 +28,5 @@ an image or set of images which displays the functional elements of a website or
 - Open source: Open source is a term that originally referred to open source software (OSS). Open source software is code that is designed to be publicly accessible—anyone can see, modify, and distribute the code as they see fit. | متن باز، اوپن سورس
 
 - Framework: A framework, or software framework, is a platform that provides a foundation for developing software applications. Think of it as a template of a working program that can be selectively modified by adding code. | فریمورک، چارچوب
+
+- Clean Code: Clean Code is code that's easy to read, maintain, understand and change through structure and consistency yet remains robust and secure to withstand performance demands. It lets you get the most value out of your software. | کد تمیز
