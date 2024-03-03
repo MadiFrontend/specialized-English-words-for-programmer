@@ -32,3 +32,6 @@ an image or set of images which displays the functional elements of a website or
 - Clean Code: Clean Code is code that's easy to read, maintain, understand and change through structure and consistency yet remains robust and secure to withstand performance demands. It lets you get the most value out of your software. | کد تمیز
 
 - HTML: HTML, or Hypertext Markup Language, is a markup language for the web that defines the structure of web pages. It is one of the most basic building blocks of every website, so it's crucial to learn if you want to have a career in web development. 
+
+- CSS: Cascading Style Sheets is a style sheet language used for specifying the presentation and styling of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. Wikipedia
+
