@@ -30,3 +30,5 @@ an image or set of images which displays the functional elements of a website or
 - Framework: A framework, or software framework, is a platform that provides a foundation for developing software applications. Think of it as a template of a working program that can be selectively modified by adding code. | فریمورک، چارچوب
 
 - Clean Code: Clean Code is code that's easy to read, maintain, understand and change through structure and consistency yet remains robust and secure to withstand performance demands. It lets you get the most value out of your software. | کد تمیز
+
+- HTML: HTML, or Hypertext Markup Language, is a markup language for the web that defines the structure of web pages. It is one of the most basic building blocks of every website, so it's crucial to learn if you want to have a career in web development. 
