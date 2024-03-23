@@ -18,6 +18,8 @@ here's a list of them ...
 
 - Flowchart: A flowchart is a diagram that depicts a process, system, or computer algorithm. They are widely used in multiple fields to document, study, plan, improve, and communicate often complex processes in clear, easy-to-understand diagrams. | فلوچارت
 
+- variable: In computer programming, a variable is an abstract storage location paired with an associated symbolic name, which contains some known or unknown quantity of data or object referred to as a value; or in simpler terms, a variable is a named container for a particular set of bits or type of data (like integer, float, string etc...) | متغیر
+
 - Data structure: In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data | ساختمان داده
 
 - Wireframe: a skeletal three-dimensional model in which only lines and vertices are represented.
